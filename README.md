@@ -1,4 +1,5 @@
-# my-sqli
+<h1 align="center"> DEDSEC SQLi LIST </h1>
+
 ### SQL Injection Payload List
 
 #### SQL Injection
